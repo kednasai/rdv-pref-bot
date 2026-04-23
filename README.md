@@ -11,10 +11,10 @@ human can log in and complete the booking manually.
 
 Non-EU residents in France need prefecture appointments for residence permits,
 renewals, and similar procedures. These appointments are booked through
-`rdv-prefecture.interieur.gouv.fr`. For the Lyon prefecture and many others,
-newly released slots are claimed within seconds of going live — often by
-third-party automation acting on behalf of paying clients. Manual refreshing
-of the site, even several times per hour, effectively never succeeds.
+`rdv-prefecture.interieur.gouv.fr`. Newly released slots are claimed within 
+seconds of going live — often bythird-party automation acting on behalf of 
+paying clients. Manual refreshingof the site, even several times per hour, 
+effectively never succeeds.
 
 This is a real access problem for anyone without legal assistance or the
 budget for a paid slot-hunting service.
